@@ -1,0 +1,6 @@
+0:#
+1:shunit2-2.1.7/,test,sh
+2:test/[!gtest/,runTests]
+3:test/[!gtest/,runTests]
+4:shunit2-2.1.8/,test/[!full.txt,in16.txt,in1K.txt,in60.txt]
+5:#
